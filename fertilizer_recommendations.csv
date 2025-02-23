@@ -1,0 +1,39 @@
+Crop,Fertilizer Type,Nutrient Composition,Recommended Quantity (kg/ha),Remarks
+Rice,Urea,46% N,260,Apply in 2-3 splits
+Rice,DAP,"18% N, 46% P",130,Apply at sowing
+Rice,MOP,60% K,100,Apply at sowing
+Rice,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Wheat,Urea,46% N,300,Apply in 2-3 splits
+Wheat,DAP,"18% N, 46% P",150,Apply at sowing
+Wheat,MOP,60% K,80,Apply at sowing
+Wheat,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Maize,Urea,46% N,300,Apply in 2-3 splits
+Maize,DAP,"18% N, 46% P",150,Apply at sowing
+Maize,MOP,60% K,80,Apply at sowing
+Maize,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Sugarcane,Urea,46% N,500,Apply in 3-4 splits
+Sugarcane,DAP,"18% N, 46% P",150,Apply at sowing
+Sugarcane,MOP,60% K,200,Apply at sowing
+Sugarcane,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Sugarcane,Boron,17% B,2,Apply if boron deficiency exists
+Cotton,Urea,46% N,250,Apply in 2-3 splits
+Cotton,DAP,"18% N, 46% P",130,Apply at sowing
+Cotton,MOP,60% K,100,Apply at sowing
+Cotton,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Pulses,DAP,"18% N, 46% P",100,Apply at sowing
+Pulses,MOP,60% K,50,Apply at sowing
+Pulses,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Oilseeds,Urea,46% N,100,Apply in 2 splits
+Oilseeds,DAP,"18% N, 46% P",100,Apply at sowing
+Oilseeds,MOP,60% K,50,Apply at sowing
+Oilseeds,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Oilseeds,Boron,17% B,1,Apply if boron deficiency exists
+Vegetables,Urea,46% N,300,Apply in 2-3 splits
+Vegetables,DAP,"18% N, 46% P",150,Apply at sowing
+Vegetables,MOP,60% K,200,Apply at sowing
+Vegetables,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Fruits,Urea,46% N,500,Apply in 3-4 splits
+Fruits,DAP,"18% N, 46% P",200,Apply at sowing
+Fruits,MOP,60% K,300,Apply at sowing
+Fruits,Zinc Sulphate,21% Zn,25,If zinc deficiency is observed
+Fruits,Boron,17% B,3,Apply if boron deficiency exists

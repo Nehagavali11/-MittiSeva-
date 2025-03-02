@@ -1,6 +1,6 @@
 # Project Logbook
 
-📅 Date: 13 Feb 2025
+📅 Date: 13 Feb 2025 /
 ✅ Finalized Topic
 
 Decided on the project title: "Sustainable Fertilizer Usage Optimizer for Higher Yield."

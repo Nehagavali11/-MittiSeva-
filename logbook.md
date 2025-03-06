@@ -75,6 +75,17 @@ This project promotes precision agriculture, sustainable practices, and higher p
 ✅ Exploratory Data Analysis (EDA) 
 
 
+📅 Date: 3rd March 2025
+
+✅ Meeting with Guide
+
+Today, we had a discussion with our project guide regarding the dataset and the research paper. The primary focus of the meeting was to analyze the dataset, identify key features, and validate its suitability for our problem statement, Sustainable Fertilizer Usage Optimizer for Higher Yield. We also discussed relevant research papers to strengthen our project's theoretical foundation and enhance our model’s accuracy. Our guide provided valuable insights into data preprocessing techniques and suggested potential improvements in the methodology. Further action items include refining the dataset, implementing feature selection techniques, and exploring additional research papers for reference.
+
+
+
+
+
+
 
 
 

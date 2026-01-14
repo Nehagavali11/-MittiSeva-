@@ -12,7 +12,7 @@ Key Benefits:
 
 ✅ Cost-Effective Farming – Optimizes input usage, reducing unnecessary expenses.
 
-Features
+Features : 
 
 Real-time, personalized fertilizer recommendations.
 
@@ -56,7 +56,7 @@ Data Layer: Database management (Firebase/MySQL)
 
 Integration Layer: API & GPS connectivity
 
-Technology Stack
+Technology Stack : 
 
 Frontend: Flutter (Mobile App)
 
@@ -162,14 +162,13 @@ Patil Chetan Yadnyeshwar – Database & System Architecture
 Guide: Prof. Dr. U. M. Patil
 
 
-
-<img width="1918" height="942" alt="Screenshot 2025-12-30 132757" src="https://github.com/user-attachments/assets/efd0ec62-4669-4c23-af9e-7f164ae5acfb" />
+<img width="1919" height="900" alt="Screenshot 2025-12-30 132852" src="https://github.com/user-attachments/assets/1ba66435-292d-4679-a131-4d33634cdf3b" />
 
 
 <img width="1919" height="659" alt="Screenshot 2025-12-30 132825" src="https://github.com/user-attachments/assets/cd34bdeb-6498-4fd0-bff7-c16b144bf700" />
 
 
-<img width="1919" height="900" alt="Screenshot 2025-12-30 132852" src="https://github.com/user-attachments/assets/1ba66435-292d-4679-a131-4d33634cdf3b" />
+<img width="1918" height="942" alt="Screenshot 2025-12-30 132757" src="https://github.com/user-attachments/assets/efd0ec62-4669-4c23-af9e-7f164ae5acfb" />
 
 
 <img width="1915" height="930" alt="Screenshot 2025-12-30 133220" src="https://github.com/user-attachments/assets/2fa6df8f-dd1d-4561-9e54-e8d5860f59b6" />

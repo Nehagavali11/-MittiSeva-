@@ -168,15 +168,19 @@ Guide: Prof. Dr. U. M. Patil
 
 <img width="1919" height="659" alt="Screenshot 2025-12-30 132825" src="https://github.com/user-attachments/assets/cd34bdeb-6498-4fd0-bff7-c16b144bf700" />
 
+
 <img width="1919" height="900" alt="Screenshot 2025-12-30 132852" src="https://github.com/user-attachments/assets/1ba66435-292d-4679-a131-4d33634cdf3b" />
+
 
 <img width="1915" height="930" alt="Screenshot 2025-12-30 133220" src="https://github.com/user-attachments/assets/2fa6df8f-dd1d-4561-9e54-e8d5860f59b6" />
 
+
 <img width="1910" height="929" alt="Screenshot 2025-12-30 133139" src="https://github.com/user-attachments/assets/ef994b1c-af6c-4c66-a509-2433a4c9633e" />
+
 
 <img width="1917" height="491" alt="Screenshot 2025-12-30 140318" src="https://github.com/user-attachments/assets/24f3407b-3cb4-4e6c-94ff-0b5ad219d060" />
 
-<img width="1910" height="510" alt="Screenshot 2025-12-30 132928" src="https://github.com/user-attachments/assets/d936f133-a442-450d-a15b-fa0f0209201c" />
+
 
 <img width="501" height="804" alt="res" src="https://github.com/user-attachments/assets/5c42e6e4-52d2-44c5-9d28-670aa32ee27d" />
 
